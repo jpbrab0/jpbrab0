@@ -1,4 +1,4 @@
-<img src="./images/background.svg">
+<img src="/images/background.svg">
 <center>
 <table>
     <tr>
