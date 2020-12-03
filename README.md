@@ -12,7 +12,7 @@
 ---
 Atualmente sou Frontend Developer Junior, e atuo na área desde o começo desse ano.
 
-Também mexo um pouco com a parte do backend e utilizo em alguns projetos.
+Também estudo a parte do backend e utilizo em alguns projetos.
 
 ## Tecnologias🖥️
 <p align="center">
