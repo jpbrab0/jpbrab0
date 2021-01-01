@@ -1,5 +1,3 @@
-# Feliz ano novo galera!!!
-
 <img src="./images/fundodesgraçado.svg">
 <center>
 <table>
