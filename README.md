@@ -10,7 +10,7 @@
 
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
-Atualmente sou Frontend Developer Junior, e atuo na área desde o começo desse ano.
+Atualmente sou Web Developer Junior, e atuo na área desde o começo desse ano.
 
 Também estudo a parte do backend e utilizo em alguns projetos.
 
@@ -29,6 +29,7 @@ Também estudo a parte do backend e utilizo em alguns projetos.
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 </p>
+
 
 * ### Informações:
 
