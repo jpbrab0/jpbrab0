@@ -1,4 +1,4 @@
-<img src="./images/fundodesgraçado.svg">
+<img src="./images/banner-github.svg">
 <center>
 <table>
     <tr>
@@ -10,9 +10,9 @@
 
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
-Atualmente sou Web Developer Junior, e atuo na área desde o começo desse ano.
+Atualmente sou Web Developer Junior, e atuo na área desde o começo de 2020.
 
-Também estudo a parte do backend e utilizo em alguns projetos.
+Recentemente comecei a estudar o desenvolvimento backend e utilizo na maioria dos meus projetos.
 
 ## Tecnologias🖥️
 <p align="center">
@@ -39,7 +39,7 @@ Também estudo a parte do backend e utilizo em alguns projetos.
 
     * 📺 Faço lives em twitch.tv/jpbrab0!
 
-    * 😅 Também faço artigos no [dev.to](https://dev.to/jpbrab0/)!
+    * 🧑‍🎓 Também escrevo artigos no [dev.to](https://dev.to/jpbrab0/)!
 
 <a href="https://www.linkedin.com/in/jpresdev"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/jpresdev)
 <br>
