@@ -39,7 +39,7 @@ Recentemente comecei a estudar o desenvolvimento backend e utilizo na maioria do
 
     * 📺 Live coding em twitch.tv/jpbrab0!
 
-    * 🧑‍🎓 Também escrevo artigos no [dev.to](https://dev.to/jpbrab0/)!
+    * 🧑‍🎓 Também escrevo artigos de tecnologia no [dev.to](https://dev.to/jpbrab0/)!
 
 <a href="https://www.linkedin.com/in/jpresdev"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/jpresdev)
 <br>
