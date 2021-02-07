@@ -10,7 +10,7 @@
 
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ---
-Atualmente sou Web Developer Junior, e atuo na área desde o começo de 2020.
+Atualmente sou Web Developer, e atuo na área desde o começo de 2020.
 
 Recentemente comecei a estudar o desenvolvimento backend e utilizo na maioria dos meus projetos.
 
