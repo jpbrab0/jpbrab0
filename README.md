@@ -37,7 +37,7 @@ Recentemente comecei a estudar o desenvolvimento backend e utilizo na maioria do
 
     * 🙋‍♂️ Tenho 13 anos;
 
-    * 📺 Live coding em[twitch.tv/jpbrab0](https://twitch.tv/jpbrab0)!
+    * 📺 Live coding em [twitch.tv/jpbrab0](https://twitch.tv/jpbrab0)!
 
     * 🧑‍🎓 Também escrevo artigos sobre tecnologia no [dev.to](https://dev.to/jpbrab0/)!
 
