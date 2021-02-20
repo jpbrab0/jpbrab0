@@ -28,6 +28,8 @@ Recentemente comecei a estudar o desenvolvimento backend e utilizo na maioria do
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img src="https://img.shields.io/badge/elixir%20-%23000000.svg?&style=for-the-badge&logo=elixir&logoColor=D133FF"/>
+  
 </p>
 
 
