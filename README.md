@@ -12,8 +12,6 @@
 ---
 Atualmente sou Web Developer, e atuo na área desde o começo de 2020.
 
-Recentemente comecei a estudar o desenvolvimento backend e utilizo na maioria dos meus projetos.
-
 Também estou estudando linux e elixir.
 ## Tecnologias🖥️
 <p align="center">
