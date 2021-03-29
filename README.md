@@ -12,7 +12,6 @@
 ---
 Atualmente sou Web Developer, e atuo na área desde o começo de 2020.
 
-Também estou estudando linux e elixir.
 ## Tecnologias🖥️
 <p align="center">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
