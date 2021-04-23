@@ -9,7 +9,7 @@
 </center>
 
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
----
+
 Atualmente sou Web Developer, e atuo na área desde o começo de 2020.
 
 ## Tecnologias🖥️
