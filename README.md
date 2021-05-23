@@ -12,7 +12,7 @@
 
 Atualmente sou Web Developer, e atuo na área desde o começo de 2020.
 
-Caso queira ver meu [https://jpres.dev](portfólio) :) 
+Caso queira ver meu [portfólio](https://jpres.dev) :) 
 
 ## Tecnologias🖥️
 <p align="center">
