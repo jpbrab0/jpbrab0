@@ -12,6 +12,8 @@
 
 Atualmente sou Web Developer, e atuo na área desde o começo de 2020.
 
+Caso queira ver meu [https://jpres.dev](portfólio) :) 
+
 ## Tecnologias🖥️
 <p align="center">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
