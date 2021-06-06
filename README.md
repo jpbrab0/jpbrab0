@@ -48,4 +48,7 @@ Caso queira ver meu [portfólio](https://jpres.dev) :)
 <br>
 <a href="https://twitter.com/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" width="25"></img></a> [Twitter](https://twitter.com/jpbrab0)
 
+### [Me siga nas redes sociais!](https://links.jpres.dev)
+
+
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
