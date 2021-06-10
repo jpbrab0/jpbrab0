@@ -12,8 +12,6 @@
 
 Atualmente sou desenvolvedor web(Web Developer), e atuo na área desde o começo de 2020.
 
-Caso queira ver meu [portfólio](https://jpres.dev) :) 
-
 ## Tecnologias🖥️
 <p align="center">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -49,6 +47,8 @@ Caso queira ver meu [portfólio](https://jpres.dev) :)
 <a href="https://twitter.com/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" width="25"></img></a> [Twitter](https://twitter.com/jpbrab0)
 
 ### [Me siga nas redes sociais!](https://links.jpres.dev)
+
+### [Conheça meu portifólio!](https://jpres.dev)
 
 
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
