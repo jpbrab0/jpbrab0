@@ -39,7 +39,7 @@ Atualmente sou desenvolvedor web(Web Developer), e atuo na área desde o começo
 
     * 🇧🇷 Sou brasileiro;
 
-    * 🙋‍♂️ Tenho 13 anos;
+    * 🙋‍♂️ Tenho 14 anos;
 
     * 📺 Faço live coding em [twitch.tv/jpbrab0](https://twitch.tv/jpbrab0)!
 
