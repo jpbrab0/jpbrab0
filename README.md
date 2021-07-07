@@ -51,8 +51,4 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
 <br>
 <a href="https://twitter.com/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" width="25"></img></a> [Twitter](https://twitter.com/jpbrab0)
 
-## No dia 6 de Julho estarei palestrando no The Tech Day! Se inscreve lá!
-
-[Link para o evento](https://thetechday.com.br/)
-
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
