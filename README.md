@@ -10,6 +10,8 @@
 
 ### [Me siga nas redes sociais!](https://links.jpres.dev)
 
+### [Veja meus artigos sobre tecnologia!](https://dev.to/jpbrab0)
+
 ### [Conheça meu portifólio!](https://jpres.dev)
 
 
