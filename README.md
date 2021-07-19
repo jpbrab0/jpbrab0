@@ -8,11 +8,12 @@
 </table>
 </center>
 
+### [Conheça meu portifólio!](https://jpres.dev)
+
 ### [Me siga nas redes sociais!](https://links.jpres.dev)
 
 ### [Veja meus artigos sobre tecnologia!](https://dev.to/jpbrab0)
 
-### [Conheça meu portifólio!](https://jpres.dev)
 
 
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
