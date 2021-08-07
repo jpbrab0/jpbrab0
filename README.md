@@ -8,14 +8,6 @@
 </table>
 </center>
 
-### [Conheça meu portifólio!](https://jpres.dev)
-
-### [Me siga nas redes sociais!](https://links.jpres.dev)
-
-### [Veja meus artigos sobre tecnologia!](https://dev.to/jpbrab0)
-
-
-
 ## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
@@ -53,5 +45,11 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
 <a href="https://twitch.tv/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/356/356052.svg" width="25"></img></a> [Twitch](https://twitch.tv/jpbrab0)
 <br>
 <a href="https://twitter.com/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" width="25"></img></a> [Twitter](https://twitter.com/jpbrab0)
+
+### [Conheça meu portifólio!](https://jpres.dev)
+
+### [Me siga nas redes sociais!](https://links.jpres.dev)
+
+### [Veja meus artigos sobre tecnologia!](https://dev.to/jpbrab0)
 
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
