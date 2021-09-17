@@ -40,12 +40,6 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
 
     * 🧑‍🎓 Escrevo artigos sobre tecnologia no [dev.to](https://dev.to/jpbrab0/)!
 
-<a href="https://www.linkedin.com/in/jpresdev"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg" width="25"></img></a> [LinkedIn](https://www.linkedin.com/in/jpresdev)
-<br>
-<a href="https://twitch.tv/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/356/356052.svg" width="25"></img></a> [Twitch](https://twitch.tv/jpbrab0)
-<br>
-<a href="https://twitter.com/jpbrab0"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" width="25"></img></a> [Twitter](https://twitter.com/jpbrab0)
-
 ### [Conheça meu portifólio!](https://jpres.dev)
 
 ### [Me siga nas redes sociais!](https://links.jpres.dev)
