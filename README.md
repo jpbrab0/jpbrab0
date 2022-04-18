@@ -55,6 +55,22 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
     
 [Primeiros passos com Nunjucks!](https://dev.to/jpbrab0/nunjucks-template-engine-1k30)    
 </details>
-
+<details>
+<summary>Experiência profissional</summary>
+    <table>
+        <tr>
+            <th>Empresa</th>
+            <th>Cargo</th>
+            <th>Tecnologias</th>
+            <th>Tempo na empresa</th>
+        </tr>
+        <tr>
+            <td>Dock</td>
+            <td>Menor/Jovem Aprendiz</td>
+            <td>Javascript/Typescript, React.js, Node.js, Sass, Graphql</td>
+            <td>Outubro 2021 - Até o momento</td>
+        </tr>
+    </table>
+</details>
 
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
