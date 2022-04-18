@@ -44,6 +44,17 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
 
 ### [Me siga nas redes sociais!](https://links.jpres.dev)
 
-### [Veja meus artigos sobre tecnologia!](https://dev.to/jpbrab0)
+<details>
+<summary>Artigos</summary>
+    
+[**O que é micro front-end?**](https://dev.to/jpbrab0/o-que-e-micro-front-end-4kci)
+    
+[Pattern Matching no Elixir](https://dev.to/jpbrab0/pattern-matching-no-elixir-1n08)
+    
+[Todo list com Vue.js](https://dev.to/jpbrab0/fazendo-uma-todo-list-com-vuejs-55p1)
+    
+[Primeiros passos com Nunjucks!](https://dev.to/jpbrab0/nunjucks-template-engine-1k30)    
+</details>
+
 
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
