@@ -8,7 +8,7 @@
 </table>
 </center>
 
-## Seja bem-vindo ao meu Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Seja bem-vindo ao meu Github!
 
 Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
 
