@@ -1,13 +1,3 @@
-<img src="./images/banner-github.svg">
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrab0&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jpbrab0&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>
-
 ## Seja bem-vindo ao meu Github!
 
 Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
@@ -70,5 +60,14 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
         </tr>
     </table>
 </details>
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrab0&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jpbrab0&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
 
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
