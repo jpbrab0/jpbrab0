@@ -19,15 +19,6 @@ Atualmente sou desenvolvedor Web, e atuo na área desde o começo de 2020. :)
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
-* ### Informações:
-
-    * 🇧🇷 Sou brasileiro;
-
-    * 📺 Faço live coding em [twitch.tv/jpbrab0](https://twitch.tv/jpbrab0)!
-
-    * 🧑‍🎓 Escrevo artigos sobre tecnologia no [dev.to](https://dev.to/jpbrab0/)!
-
 ### [Conheça meu portifólio!](https://jpres.dev)
 
 ### [Me siga nas redes sociais!](https://links.jpres.dev)
