@@ -43,11 +43,6 @@ Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde out
     </table>
 </details>
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbrab0&hide=html&layout=compact&theme=buefy" /></td>  
-</table>
-</center>
+
 
 ![](https://komarev.com/ghpvc/?username=jpbrab0&color=blue&style=flat)
