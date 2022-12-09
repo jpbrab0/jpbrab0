@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu Github!
 
-Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde outubro de 2021.
+Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde outubro de 2021. No momento tenho 1 ano de experiencia em: JavaScript, TypeScript, Nodejs, Reactjs e graphql.
 
 ## Tecnologias🖥️
 <p align="center">
@@ -39,6 +39,12 @@ Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde out
             <td>Menor Aprendiz</td>
             <td>Javascript/Typescript, React.js, Node.js, Sass, Graphql</td>
             <td>Outubro 2021 - Até o momento</td>
+        </tr>
+        <tr>
+            <td>Freelance</td>
+            <td>Desenvolvedor python</td>
+            <td>Python e Django</td>
+            <td>Outubro 2022 - Até o momento</td>
         </tr>
     </table>
 </details>
