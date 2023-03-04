@@ -43,7 +43,7 @@ Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissi
         <td>Freelance</td>
         <td>Desenvolvedor python</td>
         <td>Python e Django</td>
-        <td>Outubro 2022 - Até o momento</td>
+        <td>Outubro 2022 - Janeiro 2023</td>
     </tr>
 </table>
 
