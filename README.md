@@ -37,7 +37,7 @@ Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissi
         <td>Dock</td>
         <td>Menor Aprendiz</td>
         <td>Javascript/Typescript, React.js, Node.js, Sass, Graphql</td>
-        <td>Outubro 2021 - Dezembro 2022</td>
+        <td>Outubro 2021 - Janeiro 2023</td>
     </tr>
     <tr>
         <td>Freelance</td>
