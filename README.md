@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu Github!
 
-Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde outubro de 2021. No momento tenho 1 ano de experiencia em: JavaScript, TypeScript, Nodejs, Reactjs e graphql.
+Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde outubro de 2021. No momento tenho 2 ano de experiencia em: JavaScript, TypeScript, Nodejs, Reactjs e graphql.
 
 ## Tecnologias🖥️
 <p align="center">
@@ -34,16 +34,22 @@ Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissi
         <th>Tempo na empresa</th>
     </tr>
     <tr>
+        <td>Freelance</td>
+        <td>Desenvolvedor TypeScript</td>
+        <td>TypeScript e Nest.js</td>
+        <td>Março 2023 - Novembro 2023</td>
+    </tr>
+    <tr>
+        <td>Freelance</td>
+        <td>Desenvolvedor Python</td>
+        <td>Python e Django</td>
+        <td>Outubro 2022 - Janeiro 2023</td>
+    </tr>
+    <tr>
         <td>Dock</td>
         <td>Menor Aprendiz</td>
         <td>Javascript/Typescript, React.js, Node.js, Sass, Graphql</td>
         <td>Outubro 2021 - Janeiro 2023</td>
-    </tr>
-    <tr>
-        <td>Freelance</td>
-        <td>Desenvolvedor python</td>
-        <td>Python e Django</td>
-        <td>Outubro 2022 - Janeiro 2023</td>
     </tr>
 </table>
 
