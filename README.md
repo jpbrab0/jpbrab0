@@ -46,7 +46,7 @@ Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissi
         <td>Outubro 2022 - Janeiro 2023</td>
     </tr>
     <tr>
-        <td>Dock</td>
+        <td><a href="https://dock.tech">Dock</a></td>
         <td>Menor Aprendiz</td>
         <td>Javascript/Typescript, React.js, Node.js, Sass, Graphql</td>
         <td>Outubro 2021 - Janeiro 2023</td>
