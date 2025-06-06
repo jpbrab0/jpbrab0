@@ -34,6 +34,12 @@ Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissi
         <th>Tempo na empresa</th>
     </tr>
     <tr>
+        <td>Grupo IV2</td>
+        <td>Estagiário ServiceNow</td>
+        <td>Angular.js, Angular, JavaScript, Typescript e ServiceNow</td>
+        <td>Maio/2025 - Atual</td>
+    </tr>
+    <tr>
         <td>Freelance</td>
         <td>Desenvolvedor TypeScript</td>
         <td>TypeScript e Nest.js</td>
