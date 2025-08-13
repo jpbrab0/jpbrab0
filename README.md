@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu Github!
 
-Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissionalmente na área desde outubro de 2021. No momento tenho 2 ano de experiencia em: JavaScript, TypeScript, Nodejs, Reactjs e graphql.
+Olá, me chamo João Pedro! Sou desenolvedor Full-stack, e atuo na profissionalmente na área desde outubro de 2021. Tenho foco em desenvolvimento de soluções com TypeScript e Elixir! Estudo programação desde dos 12 anos de idade e atualmente estudo Engenharia de Software na FIAP. Conheça meu [portfólio](https://jpres.dev)!
 
 ## Tecnologias🖥️
 <p align="center">
@@ -37,7 +37,7 @@ Olá, me chamo João Pedro! Atualmente sou Desenvolvedor Web, e atuo na profissi
         <td>Grupo IV2</td>
         <td>Estagiário ServiceNow</td>
         <td>Angular.js, Angular, JavaScript, Typescript e ServiceNow</td>
-        <td>Maio/2025 - Atual</td>
+        <td>Maio/2025 - Agosto/2025</td>
     </tr>
     <tr>
         <td>Freelance</td>
