@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu Github!
 
-Olá, me chamo João Pedro! Sou desenolvedor Full-stack, e atuo na profissionalmente na área desde outubro de 2021. Tenho foco em desenvolvimento de soluções com TypeScript e Elixir! Estudo programação desde dos 12 anos de idade e atualmente estudo Engenharia de Software na FIAP. Conheça meu [portfólio](https://jpres.dev)!
+Olá, me chamo João Pedro e tenho 18 anos! Sou desenolvedor Full-stack, e atuo na profissionalmente na área desde outubro de 2021. Tenho foco em desenvolvimento de soluções com TypeScript e Elixir! Estudo programação desde 2019 e atualmente estou cursando Engenharia de Software na FIAP. Conheça meu [portfólio](https://jpres.dev)!
 
 ## Tecnologias🖥️
 <p align="center">
